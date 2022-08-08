@@ -1,3 +1,8 @@
+# Multifarm-itw
+
+Just a fast coding task I did for a DeFi interview.
+Feel free to use !
+
 ## Installation
 
 ```bash
@@ -13,6 +18,3 @@ python -m flask run
 ## Result
 
 http://127.0.0.1:5000/
-
-Author: Arnaud Soulier, 2022
-Twitter: @Philogicae
